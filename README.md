@@ -81,8 +81,6 @@ This project demonstrates how Machine Learning and Financial Analytics can help 
 🎓 MCA Cloud Computing Student
 💡 Team Lead | Python & ML Enthusiast
 
-# ⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub!
+⭐ If you like this project, don't forget to star the repository! bile Devices
 
 Your support motivates me to build more projects and contribute more to open-source development 🚀
